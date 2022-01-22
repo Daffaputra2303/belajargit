@@ -1,5 +1,49 @@
+* {
+    color: darkgoldenrod;
+}
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    font-size: 500gt;
+    font-weight: lighter;
+    font-size: 100px;
+    font-variant: small-caps;
+}
+
+h5 {
+    font-weight: lighter;
+    text-align: center;
+    font text
+}
+
+desc {
+    line-height: 10px;
+    font
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(250, 0, 0);
+}
+
+.sugoi {
+    color: rgb(116, 42, 165);
+}
+
+.sugoi:
+}
+.link {
+    color: rgb(0, 140, 255);
+}
+.daebak {
+    color: rgb(20, 113, 220);
+}
+.baru {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.baris {
+    color: darkblue;
+}
+body {
+    color: aqua;
 }
