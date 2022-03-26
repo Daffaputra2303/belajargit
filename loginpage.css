@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+position: absolute;
+left: 60%;
+top: 15%;
+padding-left: 50px;
+height: 500px;
+box-sizing: border-box;
+
+   
+}
+
+.judul {
+    color: #5D5FEF;;
+}
+
+.container {
+    width: 600px;
+}
+
+
+
+.inputpassword input[type=password]{
+font-family: 'Poppins', sans-serif;
+width: 440px;
+height: 53px;
+padding-left: 30px;
+font-size: 14px;
+border: none;
+border: 1px solid #5D5FEF;
+border-radius: 8px;
+
+    
+}
+.inputusername input[type=text]{
+    font-family: 'Poppins', sans-serif;
+    width: 440px;
+    height: 53px;
+    padding-left: 30px;
+    font-size: 14px;
+    border: none;
+    border: 1px solid #5D5FEF;
+    border-radius: 8px;
+}
+
+.label {
+    font-size: 14px;
+    margin-right: 220px;
+}
+
+.username, .inputpassword {
+    font-size: 16px;
+    margin-bottom: 32px;
+    cursor: pointer;
+}
+
+.inputpassword {
+    margin-bottom: 30px;
+}
+
+
+
+.inputusername {
+    margin-bottom: 32px;
+}
+
+.forgotpass {
+    text-decoration: none;
+    font-size: 14px;
+    color: #5D5FEF;
+}
+
+.checkbox {
+    margin-bottom: 32px;
+}
+
+.login {
+    background-color: #5D5FEF;
+    border: none;
+    width: 480px;
+    height: 53px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: white;
+}
+
+.gambar {
+    position: absolute;
+    width: 58%;
+    left: 0px;
+    margin-right: 10px;
+}
+
+.welcome {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    }
+
+    .halo {
+    font-weight: 600;
+    font-size: 36px;
+    line-height:50px;
+    }
+
+    .helo {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 10px;
+
+    }
+
+    .please {
+        margin-bottom: 40px;
+    }
+
+    .inputpasse, .password {
+
+        margin-bottom: 16px;
+       
+    }
+    #password, #username{
+        transition: 0.1s;
+    }
+
+    #password:hover {
+        filter: drop-shadow(0px 0px 10px rgba(93, 95, 239, 0.01)) drop-shadow(0px 0px 9px rgba(93, 95, 239, 0.04)) drop-shadow(0px 0px 8px rgba(93, 95, 239, 0.15)) drop-shadow(0px 0px 6px rgba(93, 95, 239, 0.26)) drop-shadow(0px 0px 3px rgba(93, 95, 239, 0.29)) drop-shadow(0px 0px 0px rgba(93, 95, 239, 0.3));
+    }
+    #username:hover {
+        filter: drop-shadow(0px 0px 10px rgba(93, 95, 239, 0.01)) drop-shadow(0px 0px 9px rgba(93, 95, 239, 0.04)) drop-shadow(0px 0px 8px rgba(93, 95, 239, 0.15)) drop-shadow(0px 0px 6px rgba(93, 95, 239, 0.26)) drop-shadow(0px 0px 3px rgba(93, 95, 239, 0.29)) drop-shadow(0px 0px 0px rgba(93, 95, 239, 0.3));
+    }
+
+    .eye {
+        position: absolute;
+        top: 350px;
+        right: 100px;
+        fill: #5D5FEF;
+    }
